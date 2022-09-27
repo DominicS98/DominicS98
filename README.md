@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @DominicS98
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning HTML, CSS, JS.
+- 👋 Hi, I’m Dominic-Patrick Sumandan
+- 👀 I’m interested in web development, I know my way around HTML5, CSS, Bootstrap, and JavaScript.
 - 📫 How to reach me: Sumandandominic@yahoo.com
 
 <!---
